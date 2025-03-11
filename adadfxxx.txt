@@ -1,15 +1,6 @@
-! 2025/02/01 https://x.com
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
 x.com##.r-1udh08x.r-xoduu5.css-175oi2r
-
-! 2025/02/14 https://gigazine.net
-gigazine.net##.thumb
-
-! 2025/02/14 https://x.com
 x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r
-
-! 2025/02/16 https://x.com
 x.com##div.r-1udh08x.r-7sv4c2.r-rs99b7.r-1phboty.r-1867qdf.r-jxzhtn.r-14lw9ot.css-175oi2r
-
-! 2025/02/16 https://www.sankei.com
+gigazine.net##.thumb
 www.sankei.com##.sidebar-items--sticky.sidebar-items
